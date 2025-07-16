@@ -142,12 +142,7 @@ This is a standard Next.js app and can be deployed anywhere that supports Node.j
 
 ## Contributing
 
-This is an invite-only platform, but we welcome contributions! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+Feel free to contribute or fork and make your own forked version of this!
 
 ## Easter Eggs 🥚
 
