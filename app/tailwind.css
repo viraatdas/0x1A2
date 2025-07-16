@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('./paper-theme.css');
+
+@theme {
+  --font-kalam: var(--font-kalam), cursive;
+} 
