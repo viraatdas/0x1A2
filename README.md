@@ -1,6 +1,6 @@
 # 0x1A2 - I'm a Teapot 🫖
 
-An exclusive, invite-only social platform inspired by HTTP status code 418. Like a teapot that refuses to brew coffee, we're selective about what we serve.
+A new kind of Twitter 
 
 ## Features
 
